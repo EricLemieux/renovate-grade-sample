@@ -20,6 +20,8 @@ repositories {
     jcenter()
 }
 
+version = '1.2.3'
+
 dependencies {
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:29.0-jre'
